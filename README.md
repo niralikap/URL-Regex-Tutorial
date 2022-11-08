@@ -21,3 +21,11 @@ It does the following:
 - When I read through each section of the tutorial, then I find a detailed explanation of what a specific component of the regex does.
 
 - When I reach the end of the tutorial, then I find a section about the author and a link to the author’s GitHub profile.
+
+Screenshots:
+
+![Image](./Develop/assets/images/image1.jpg)
+![Image](./Develop/assets/images/image2.jpg)
+![Image](./Develop/assets/images/image3.jpg)
+![Image](./Develop/assets/images/image4.jpg)
+![Image](./Develop/assets/images/image5.jpg)
