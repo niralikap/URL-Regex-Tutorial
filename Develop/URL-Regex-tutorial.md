@@ -111,7 +111,7 @@ The grouping in regex is done using parentheses `()`. If we examine the expressi
 
 - The initial https component: `(https?:\/\/)`
 
-- The domain name (e.g. www.google, or pets): `([\da-z\.-]+)\.`
+- The domain name (e.g. `www.google`, or pets): `([\da-z\.-]+)\.`
 
 - The top level domain (.com, .gov, etc): `([a-z\.]{2,6})`
 
@@ -175,4 +175,4 @@ There are no character escapes in the above URL regex.
 
 This regex tutorial was created by Nirali Kapadia. 
 
-Github profile: `https://github.com/niralikap`
+Github profile: https://github.com/niralikap
